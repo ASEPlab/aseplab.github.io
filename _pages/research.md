@@ -12,7 +12,11 @@ permalink: /research/
 **Mission: Advancing sustainable energy and critical resource recovery through innovative separation and purification technologies**
 
 
-<img src="{{ site.baseurl }}/images/researchscope.png" alt="Research Scope" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
+<img src="{{ site.baseurl }}/images/researchscope.png" alt="A detailed flowchart outlining the research scope of ASeP Lab, connecting target separation processes, critical mineral recovery, and renewable biomass valorization through integrated modeling and experimentation." style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
+
+<p style="font-size: 0.95em; color: #555; text-align: center; margin-top: 10px; margin-bottom: 20px;">
+  <strong>Figure Overview:</strong> Our research framework integrates multi-scale modeling and hands-on experimentation to drive innovations in target separations, critical mineral recovery, and renewable biomass valorization.
+</p>
 
 Our research focuses on designing innovative separation processes through modeling and experimentation.
 
