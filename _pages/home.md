@@ -15,7 +15,10 @@ Our goal is to benefit society and the environment by minimizing ecological impa
 
 
 
-<img src="{{ site.baseurl }}/images/ASEPlabHome.png" alt="ASEP Lab Home" style="width: 80%; max-width: 600px; display: block; margin: 20px auto;">
+<figure>
+  <img src="{{ site.baseurl }}/images/ASEPlabHome.png" alt="A circular diagram illustrating the four core research pillars of ASeP Lab: Materials (target-selective material and system design), Modeling (model-based process optimization and intensification), Experiments (robust and scalable separations), and Circularity (utilization of renewable resources), all converging into the central ASeP Lab." style="width: 80%; max-width: 600px; display: block; margin: 20px auto;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Figure 1: Research vision and core technology cycle of the ASeP Lab</figcaption>
+</figure>
 
 
 
