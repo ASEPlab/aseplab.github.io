@@ -37,6 +37,9 @@ We utilize a comprehensive approach, striving to advance separation processes fo
 
 ## Open Source Software
 
+* **ASeP LC Simulator**: A GUI tool for simulating various modes of liquid chromatography. Please email Dr. Choi if you have any questions. 
+  
+
 * **[CUP Modeler](https://github.com/NREL-SEPCON/CUPModeler)**: A free Python-based GUI tool for simulating various modes of liquid-liquid chromatography (counter-current chromatography and centrifugal partitioning chromatography) processes. Please email Dr. Choi if you have any questions. 
   
 
