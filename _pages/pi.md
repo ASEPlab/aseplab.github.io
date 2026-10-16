@@ -9,7 +9,7 @@ permalink: /pi/
 <table style="width: 100%; border: none; margin-bottom: 25px;">
   <tr>
     <td style="width: 220px; vertical-align: top; padding-right: 40px; border: none;">
-      <img src="{{ site.baseurl }}/images/teampic/PI.jpg" alt="Hoon Choi, Ph.D." style="width: 100%; max-width: 200px; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/images/teampic/PI.jpg" alt="Portrait photo of Prof. Hoon Choi, Principal Investigator of ASeP Lab" style="width: 100%; max-width: 200px; border-radius: 8px;">
     </td>
     <td style="vertical-align: top; border: none;">
       <h3>Hoon Choi, Ph.D.</h3>
