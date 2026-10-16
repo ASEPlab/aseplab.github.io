@@ -16,8 +16,16 @@ You will have the chance to work on the challenges in the real world, requiring 
 
 -->
 
-### Positions are currently filled, but we are always happy to review strong applications for future openings. If you are interested in joining our group, please feel free to send your CV/resume (including GPA) to Prof. Choi
 
+### Open for undergraduate research interns! Wyoming students interested in critical minerals, please contact Prof. Choi anytime at hchoi4@uwyo.edu.
+
+
+<hr>
+
+
+### Graduate Positions are currently filled, but we are always happy to review strong applications for future openings. If you are interested in joining our group, please feel free to send your CV/resume (including GPA) to Prof. Choi
+
+<hr>
 
 
 ### How to Apply
