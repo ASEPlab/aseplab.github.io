@@ -15,9 +15,16 @@ Our goal is to benefit society and the environment by minimizing ecological impa
 
 
 
-<figure style="text-align: center; margin: 30px auto; max-width: 700px;">
+<figure style="text-align: center; margin: 30px auto; max-width: 750px;">
   <img src="{{ site.baseurl }}/images/ASEPlabHome.png" alt="A circular diagram illustrating the four core research pillars of ASeP Lab: Materials (target-selective material and system design), Modeling (model-based process optimization and intensification), Experiments (robust and scalable separations), and Circularity (utilization of renewable resources), all converging into the central ASeP Lab." style="width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555; margin-top: 10px; text-align: center;">Figure 1: Research vision and core technology cycle of the ASeP Lab</figcaption>
+  <figcaption style="font-size: 0.95em; color: #444; margin-top: 15px; text-align: left; line-height: 1.6;">
+    <strong style="display: block; text-align: center; font-size: 1.05em; margin-bottom: 5px; color: #222;">Figure 1: Research Vision and Core Technology Cycle of the ASeP Lab</strong>
+    Our research integrates four interconnected pillars to drive innovation in sustainable separation science: 
+    <strong>Materials</strong> (target-selective molecular and system design), 
+    <strong>Modeling</strong> (physics-informed process optimization and digital twins), 
+    <strong>Experiments</strong> (robust, scalable continuous chromatography and separation platforms), and 
+    <strong>Circularity</strong> (valorization of renewable resources and closed-loop critical mineral recovery).
+  </figcaption>
 </figure>
 
 
